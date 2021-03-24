@@ -10,7 +10,7 @@ Real-time collaborative drawing using node.js with the Express.JS framework, soc
 Run the following in terminal
 
 	git clone https://github.com/eppu/NodeDraw.git
-	cd drawing
+	cd NodeDraw
 	npm install
 	node app.js
 
